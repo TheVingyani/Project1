@@ -1,3 +1,26 @@
+<h1 align="center">Hi 👋, Welcome To Project 1</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thevingyani&label=Profile%20views&color=0e75b6&style=flat" alt="thevingyani" /> </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Install Mysql on your system.
 
 https://github.com/TheVingyani/Project1/blob/main/4.1-How-to-install-MySQL.pdf 
@@ -8,11 +31,11 @@ Passwd: root
 
 create database using following cmds
 
-Create database demo; (your choice) 
+ Create database demo; (your choice) 
 
-use demo;
+  use demo;
 
-source create-biokg-base.sql (importing full tables)
+   source create-biokg-base.sql (importing full tables)
 
 exit;
 
