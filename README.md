@@ -29,7 +29,9 @@ for mondo - https://purl.obolibrary.org/obo/mondo.obo
 
 
 python ./load-Mondo.py --dbhost localhost --dbname demo --pwfile=./demo_pass --dbuser root 
+
 python ./load-DO.py --dbhost localhost --dbname demo2 --pwfile=./demo_pass --dbuser root
+
 python ./load-RDO.py --dbhost localhost --dbname demo2 --pwfile=./demo_pass --dbuser root
 
 enter into mysql
