@@ -1,4 +1,4 @@
-**Install Mysql on your system. **
+Install Mysql on your system.
 
 https://github.com/TheVingyani/Project1/blob/main/4.1-How-to-install-MySQL.pdf 
 
