@@ -1,0 +1,9 @@
+[mysqldump]
+user=root
+password=tcrd@blr
+host=68.183.83.1
+
+[client]
+user=root
+password=tcrd@blr
+host=68.183.83.1
