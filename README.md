@@ -13,10 +13,7 @@ source create-biokg-base.sql (importing full tables from biokg database)
 exit;
 download the data and load the from data folder
 for mondo - https://purl.obolibrary.org/obo/mondo.obo
-pip install mysql-connector-python
-pip install docopt
-pip install numpy
-pip install pandas
+
 
 python ./load-Mondo.py --dbhost localhost --dbname demo --pwfile=./demo_pass --dbuser root 
 python ./load-DO.py --dbhost localhost --dbname demo2 --pwfile=./demo_pass --dbuser root
